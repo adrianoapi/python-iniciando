@@ -12,4 +12,4 @@ def calculator(x=10, y=2):
     return(x-y)
     
 result = calculator(y=5, x=10)
-print("Resultado ",result)
+print("Resultado ", result)
