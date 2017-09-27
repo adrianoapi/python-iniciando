@@ -16,3 +16,7 @@ novalista = ["Adriano", "Araujo", "Costa"]
 for j in novalista:
     if not j == "Adriano":
         print(j)
+
+
+
+        

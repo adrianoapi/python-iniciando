@@ -1,3 +1,8 @@
+print "---------------------------------------------------------"
+print "Exemplo de funcoes"
+print "---------------------------------------------------------"
+print
+
 def call_numbers():
     for number in range(0, 10):
         print(number)
